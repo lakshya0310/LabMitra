@@ -1,0 +1,272 @@
+[
+  {
+    "biomarker": "HbA1c",
+    "aliases": ["Glycated Hemoglobin", "A1c", "Glycosylated Hemoglobin", "HbA1C"],
+    "standard_unit": "%",
+    "normal_range": "< 5.7%",
+    "borderline_range": "5.7% - 6.4% (Pre-diabetes)",
+    "high_risk_threshold": ">= 6.5%",
+    "category": "Diabetes & Glucose Metabolism",
+    "plain_meaning": "Shows the 3-month average of blood sugar levels. Helps see long-term sugar trends rather than just day-to-day fluctuations.",
+    "lifestyle_action": "Brisk 30-minute evening walk after dinner, avoiding prolonged sitting, and having meals at consistent times.",
+    "indian_food_swaps": [
+      "Replace polished white rice with whole wheat chapatis or fiber-rich jowar and bajra rotis",
+      "Drink methi dana (fenugreek) water soaked overnight on an empty stomach in the morning",
+      "Snack on dry roasted bhuna chana or boiled sprouts instead of maida biscuits and rusks",
+      "Include steamed moong dal chilla with mint-coriander chutney instead of white bread toast",
+      "Enjoy bitter gourd (karela) sabzi or bottle gourd (lauki) soup twice a week"
+    ]
+  },
+  {
+    "biomarker": "Fasting Blood Sugar",
+    "aliases": ["FBS", "Glucose Fasting", "Blood Sugar Fasting", "Fasting Plasma Glucose"],
+    "standard_unit": "mg/dL",
+    "normal_range": "70 - 99 mg/dL",
+    "borderline_range": "100 - 125 mg/dL (Impaired Fasting Glucose)",
+    "high_risk_threshold": ">= 126 mg/dL",
+    "category": "Diabetes & Glucose Metabolism",
+    "plain_meaning": "Reflects your baseline blood glucose after 8-10 hours of overnight fasting.",
+    "lifestyle_action": "Ensure at least 7 hours of sound sleep and finish dinner 2.5 hours before sleeping.",
+    "indian_food_swaps": [
+      "Have cinnamon (dalchini) infused warm water in the morning",
+      "Swap sugary morning chai with ginger-tulsi herbal tea with no added sugar",
+      "Switch morning poha/upma to vegetable dalia (broken wheat) with green beans and carrots",
+      "Keep evening snacks limited to roasted makhana (fox nuts) roasted with light turmeric and salt",
+      "Add fresh homemade curd (dahi) with ground roasted jeera powder to your lunch"
+    ]
+  },
+  {
+    "biomarker": "Total Cholesterol",
+    "aliases": ["Serum Cholesterol", "Cholesterol Total", "Lipid Profile Total Cholesterol"],
+    "standard_unit": "mg/dL",
+    "normal_range": "< 200 mg/dL",
+    "borderline_range": "200 - 239 mg/dL",
+    "high_risk_threshold": ">= 240 mg/dL",
+    "category": "Lipid Profile & Heart Health",
+    "plain_meaning": "Total amount of fat circulating in the blood. Sparing use of deep-frying keeps this comfortably balanced.",
+    "lifestyle_action": "30-40 minutes of daily aerobic movement like brisk walking, yoga, or cycling.",
+    "indian_food_swaps": [
+      "Replace deep-fried samosas and pakoras with air-fried or roasted chana and steamed dhokla",
+      "Cook sabzis in cold-pressed mustard oil or sesame/groundnut oil, strictly limiting to 2-3 teaspoons per person daily",
+      "Drink garlic-infused warm water or chew 1 clove of raw crushed garlic on an empty stomach",
+      "Incorporate isabgol (psyllium husk) in warm water at bedtime to aid cholesterol binding",
+      "Add soluble fiber through daily servings of seasonal sabzi like tori (ridge gourd) and bhindi"
+    ]
+  },
+  {
+    "biomarker": "Triglycerides",
+    "aliases": ["Serum Triglycerides", "TG", "Triglyceride"],
+    "standard_unit": "mg/dL",
+    "normal_range": "< 150 mg/dL",
+    "borderline_range": "150 - 199 mg/dL",
+    "high_risk_threshold": ">= 200 mg/dL",
+    "category": "Lipid Profile & Heart Health",
+    "plain_meaning": "Circulating blood fats derived directly from excess carbohydrates, refined sugars, and oils.",
+    "lifestyle_action": "Avoid late-night snacks, cut sweetened drinks, and practice brisk walking after major meals.",
+    "indian_food_swaps": [
+      "Eliminate sweets like mithai, halwa, gulab jamun, and sweetened lassi",
+      "Swap evening white bread and namkeen with roasted chana and flaxseed (alsi) powder",
+      "Replace refined sunflower oils and vanaspati ghee with minimal mustard or groundnut oil",
+      "Add raw amla (Indian gooseberry) juice or fresh amla chutney to your midday plate",
+      "Choose unsweetened buttermilk (chaas) infused with curry leaves and hing over cold drinks"
+    ]
+  },
+  {
+    "biomarker": "HDL",
+    "aliases": ["HDL Cholesterol", "High Density Lipoprotein", "Good Cholesterol"],
+    "standard_unit": "mg/dL",
+    "normal_range": "> 40 mg/dL (Males), > 50 mg/dL (Females)",
+    "borderline_range": "40 - 50 mg/dL",
+    "high_risk_threshold": "< 40 mg/dL (Low HDL)",
+    "category": "Lipid Profile & Heart Health",
+    "plain_meaning": "The protective 'good cholesterol' that carries excess fats away from arteries back to the liver.",
+    "lifestyle_action": "Consistent daily physical exercise and brisk walking are proven to raise protective HDL naturally.",
+    "indian_food_swaps": [
+      "Take 1 teaspoon of roasted alsi (flaxseeds) and pumpkin seeds daily with water",
+      "Eat 4-5 soaked almonds (badam) and 1 whole walnut (akhrot) every morning",
+      "Include cooked rajma, chana, or lobia (black-eyed peas) for healthy legumes and minerals",
+      "Use fresh curry leaves (kadi patta) generously in tadka for natural antioxidant polyphenols",
+      "Drink freshly prepared warm lemon water with a pinch of black salt"
+    ]
+  },
+  {
+    "biomarker": "LDL",
+    "aliases": ["LDL Cholesterol", "Low Density Lipoprotein", "Bad Cholesterol"],
+    "standard_unit": "mg/dL",
+    "normal_range": "< 100 mg/dL",
+    "borderline_range": "100 - 159 mg/dL",
+    "high_risk_threshold": ">= 160 mg/dL",
+    "category": "Lipid Profile & Heart Health",
+    "plain_meaning": "Often called 'bad cholesterol'. Keeping this low prevents plaque buildup inside blood vessels.",
+    "lifestyle_action": "Avoid commercial bakery biscuits, palm oil snacks, and maintain a 45-minute active routine.",
+    "indian_food_swaps": [
+      "Replace butter-laden parathas with plain phulkas dry-roasted without surface vanaspati",
+      "Include fiber-dense ragi (finger millet) rotis or oats porridge with cardamom and milk",
+      "Snack on fresh papaya, guava, or pomegranate instead of fried namkeen or bhujia",
+      "Drink warm water with 1 teaspoon methi powder before lunch",
+      "Have steamed moong dal with turmeric and cumin seeds for lunch and dinner"
+    ]
+  },
+  {
+    "biomarker": "TSH",
+    "aliases": ["Thyroid Stimulating Hormone", "Ultrasensitive TSH", "Serum TSH"],
+    "standard_unit": "mIU/L",
+    "normal_range": "0.4 - 4.5 mIU/L",
+    "borderline_range": "4.5 - 10.0 mIU/L (Subclinical Hypothyroidism)",
+    "high_risk_threshold": "> 10.0 mIU/L",
+    "category": "Thyroid Health",
+    "plain_meaning": "A pituitary signal that controls your thyroid gland. When elevated, it gently nudges the thyroid to speed up energy regulation.",
+    "lifestyle_action": "Manage stress with Pranayama (Anulom Vilom) and maintain regular sleep cycles.",
+    "indian_food_swaps": [
+      "Drink coriander seed (dhaniya dana) soaked water boiled and cooled every morning",
+      "Eat 1-2 Brazil nuts or soaked almonds and a pinch of iodized rock salt in cooking",
+      "Avoid raw goitrogens like raw cabbage and raw cauliflower; always cook or steam them thoroughly",
+      "Include fresh roasted makhana and pumpkin seeds for natural zinc and selenium",
+      "Drink warm milk with a pinch of organic turmeric (haldi) at bedtime"
+    ]
+  },
+  {
+    "biomarker": "Hemoglobin",
+    "aliases": ["Hb", "HGB", "Total Hemoglobin"],
+    "standard_unit": "g/dL",
+    "normal_range": "13.0 - 17.0 g/dL (Males), 12.0 - 15.0 g/dL (Females)",
+    "borderline_range": "10.0 - 11.9 g/dL (Mild Anemia)",
+    "high_risk_threshold": "< 10.0 g/dL",
+    "category": "Complete Blood Count (CBC)",
+    "plain_meaning": "The protein inside red blood cells carrying oxygen throughout the body. Healthy levels sustain vitality and energy.",
+    "lifestyle_action": "Avoid drinking chai or coffee immediately with meals, as tannins hinder dietary iron absorption.",
+    "indian_food_swaps": [
+      "Eat 2-3 dates (khajoor) and black raisins (kishmish) soaked overnight every morning",
+      "Include iron-rich green leafy vegetables like palak (spinach), methi, and bathua saag",
+      "Snack on homemade jaggery (gud) and roasted groundnut/chana chikki in moderate quantities",
+      "Add fresh beetroot and carrot salad with squeezed lemon juice (Vitamin C enhances iron uptake)",
+      "Cook vegetables and dals in traditional cast-iron kadhais to naturally infuse trace iron"
+    ]
+  },
+  {
+    "biomarker": "Vitamin D (25-OH)",
+    "aliases": ["25-Hydroxy Vitamin D", "Vit D3", "Vitamin D Total", "25-OH Cholecalciferol"],
+    "standard_unit": "ng/mL",
+    "normal_range": "30 - 100 ng/mL",
+    "borderline_range": "20 - 29 ng/mL (Insufficient)",
+    "high_risk_threshold": "< 20 ng/mL (Deficient)",
+    "category": "Vitamins & Bone Health",
+    "plain_meaning": "The sunshine vitamin essential for calcium absorption, bone strength, and optimal immunity.",
+    "lifestyle_action": "Spend 20-30 minutes in early morning sunshine (8:00 AM - 9:30 AM) with bare arms and face.",
+    "indian_food_swaps": [
+      "Consume cow's milk or fortified milk boiled with a pinch of nutmeg (jaiphal)",
+      "Include fresh country mushrooms exposed to brief sunlight before cooking",
+      "Eat homemade fresh paneer (cottage cheese) lightly tossed with jeera and black pepper",
+      "Have set curd (dahi) or fortified dairy products during daytime meals",
+      "Include egg yolks or consult your doctor regarding a weekly clinical cholecalciferol sachet"
+    ]
+  },
+  {
+    "biomarker": "Vitamin B12",
+    "aliases": ["Cyanocobalamin", "Serum B12", "Cobalamin"],
+    "standard_unit": "pg/mL",
+    "normal_range": "200 - 900 pg/mL",
+    "borderline_range": "150 - 200 pg/mL (Borderline)",
+    "high_risk_threshold": "< 150 pg/mL (Deficient)",
+    "category": "Vitamins & Nerve Health",
+    "plain_meaning": "Vital vitamin for nerve health, brain vitality, and healthy red blood cell synthesis.",
+    "lifestyle_action": "Maintain good gut digestion through probiotics to optimize digestive absorption.",
+    "indian_food_swaps": [
+      "Drink a glass of warm milk boiled with cardamom twice daily",
+      "Have fresh homemade set curd (dahi) or spiced chaas with roasted cumin daily",
+      "Include fresh paneer or fortified nutritional yeast in daily vegetarian cooking",
+      "For non-vegetarians, include boiled eggs or light country chicken stew once or twice a week",
+      "Consult your physician regarding sublingual methylcobalamin if following a strict vegan diet"
+    ]
+  },
+  {
+    "biomarker": "Uric Acid",
+    "aliases": ["Serum Uric Acid", "Blood Uric Acid", "UA"],
+    "standard_unit": "mg/dL",
+    "normal_range": "3.5 - 7.2 mg/dL (Males), 2.6 - 6.0 mg/dL (Females)",
+    "borderline_range": "6.0 - 7.5 mg/dL",
+    "high_risk_threshold": "> 7.5 mg/dL (Hyperuricemia)",
+    "category": "Renal & Joint Health",
+    "plain_meaning": "A byproduct of purine breakdown in foods. When elevated, drinking ample water helps flush it through kidneys.",
+    "lifestyle_action": "Hydrate generously with 2.5 to 3 liters of clean water daily to assist renal clearance.",
+    "indian_food_swaps": [
+      "Drink freshly prepared coconut water (nariyal pani) or barley (jau) water",
+      "Limit heavy high-purine dals like rajma and chole; favor light split moong dal",
+      "Eliminate sugary sodas and packaged fruit beverages high in industrial fructose syrup",
+      "Include fresh cherries, amla, and cucumber salad with lemon dressing",
+      "Drink warm water with 1 teaspoon apple cider vinegar or lemon juice before meals"
+    ]
+  },
+  {
+    "biomarker": "Serum Creatinine",
+    "aliases": ["Creatinine", "Blood Creatinine", "Sr. Creatinine"],
+    "standard_unit": "mg/dL",
+    "normal_range": "0.7 - 1.3 mg/dL (Males), 0.5 - 1.1 mg/dL (Females)",
+    "borderline_range": "1.3 - 1.6 mg/dL",
+    "high_risk_threshold": "> 1.6 mg/dL",
+    "category": "Renal Function (KFT)",
+    "plain_meaning": "A natural muscle breakdown waste product cleanly filtered by healthy kidneys. Indicates filtration efficiency.",
+    "lifestyle_action": "Keep blood pressure and hydration strictly monitored, avoiding unprescribed painkiller NSAID tablets.",
+    "indian_food_swaps": [
+      "Hydrate with warm water and fresh coriander-infused water throughout the daytime",
+      "Avoid excess protein powders or heavy unmonitored supplements; stick to natural home-cooked dals",
+      "Choose low-potassium vegetables like lauki (bottle gourd), tinda, and parwal cooked lightly",
+      "Avoid heavy table salt; use measured rock salt (sendha namak) without excess sprinkling",
+      "Drink barley water (jau ka pani) cooked with a hint of roasted cumin"
+    ]
+  },
+  {
+    "biomarker": "SGPT/ALT",
+    "aliases": ["ALT", "Alanine Aminotransferase", "Serum Glutamic Pyruvic Transaminase", "SGPT"],
+    "standard_unit": "U/L",
+    "normal_range": "< 45 U/L (Males), < 34 U/L (Females)",
+    "borderline_range": "45 - 80 U/L (Mild Liver Stress)",
+    "high_risk_threshold": "> 80 U/L",
+    "category": "Liver Function (LFT)",
+    "plain_meaning": "A liver enzyme that enters the bloodstream during periods of metabolic stress, fatty liver, or heavy meals.",
+    "lifestyle_action": "Prioritize 45 minutes of brisk walking to reduce hepatic fat accumulation and avoid alcohol completely.",
+    "indian_food_swaps": [
+      "Drink warm water with fresh lemon and a teaspoon of ginger juice every morning",
+      "Eat light home-cooked food; avoid street snacks fried in repeatedly heated oil",
+      "Include fresh raw turmeric (kacchi haldi) and garlic in your everyday dal tadka",
+      "Drink freshly squeezed radish (mooli) leaf juice or amla juice in moderation",
+      "Substitute heavy evening meals with khichdi made of yellow moong dal and bottle gourd"
+    ]
+  },
+  {
+    "biomarker": "SGOT/AST",
+    "aliases": ["AST", "Aspartate Aminotransferase", "Serum Glutamic Oxaloacetic Transaminase", "SGOT"],
+    "standard_unit": "U/L",
+    "normal_range": "< 40 U/L",
+    "borderline_range": "40 - 75 U/L",
+    "high_risk_threshold": "> 75 U/L",
+    "category": "Liver Function (LFT)",
+    "plain_meaning": "An enzyme found in liver and heart cells. Mild elevations often point to metabolic overload or lack of exercise.",
+    "lifestyle_action": "Maintain healthy body weight through low-glycemic home food and regular evening exercise.",
+    "indian_food_swaps": [
+      "Sip warm green tea or jeera-ajwain boiled digestive water after lunch and dinner",
+      "Eliminate bakery puff pastries, samosas, and commercial sweets",
+      "Consume boiled or lightly sauteed seasonal vegetables like tori, lauki, and methi saag",
+      "Take 1 teaspoon crushed amla powder with warm water",
+      "Snack on sliced cucumbers, carrots, and roasted makhana instead of biscuits"
+    ]
+  },
+  {
+    "biomarker": "Platelet Count",
+    "aliases": ["Platelets", "Thrombocyte Count", "Total Platelet Count", "PLT"],
+    "standard_unit": "lakhs/cumm or 10^3/uL",
+    "normal_range": "1.5 - 4.5 Lakhs/cumm (150,000 - 450,000 /uL)",
+    "borderline_range": "1.0 - 1.49 Lakhs/cumm",
+    "high_risk_threshold": "< 1.0 Lakhs/cumm (Thrombocytopenia)",
+    "category": "Complete Blood Count (CBC)",
+    "plain_meaning": "Crucial blood cell fragments responsible for normal blood clotting and tissue repair after injury.",
+    "lifestyle_action": "Rest adequately, avoid strenuous contact sports during low counts, and maintain steady hydration.",
+    "indian_food_swaps": [
+      "Consume fresh papaya leaf extract or chew tender fresh papaya leaf juice (1-2 teaspoons)",
+      "Drink fresh kiwi fruit pulp or eat 1-2 fresh ripe kiwis daily",
+      "Eat fresh pomegranate (anar) pearls or drink fresh pomegranate juice without added sugar",
+      "Include tender coconut water twice daily for electrolyte balance and cellular hydration",
+      "Drink giloy (Tinospora cordifolia) extract or boiled giloy water under guidance"
+    ]
+  }
+]

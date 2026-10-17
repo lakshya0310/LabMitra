@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: labmitra-api
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "pip install -r backend/requirements.txt && python backend/prewarm_cache.py"
+    startCommand: "uvicorn backend.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: FASTEMBED_CACHE_PATH
+        value: ./backend/model_cache
+      - key: SARVAM_API_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: "https://*.vercel.app,http://localhost:5173,http://localhost:3000"
+    healthCheckPath: /health
