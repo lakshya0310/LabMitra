@@ -16,3 +16,4 @@ services:
       - key: ALLOWED_ORIGINS
         value: "https://*.vercel.app,http://localhost:5173,http://localhost:3000"
     healthCheckPath: /health
+

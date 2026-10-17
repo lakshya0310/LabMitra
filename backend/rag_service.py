@@ -150,3 +150,4 @@ def get_rag_service() -> IndianDietaryRAG:
     if _rag_instance is None:
         _rag_instance = IndianDietaryRAG()
     return _rag_instance
+

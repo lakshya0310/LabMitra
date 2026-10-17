@@ -64,3 +64,4 @@ export default function PatientSummaryCard({ summaryData, onReset }) {
     </div>
   );
 }
+

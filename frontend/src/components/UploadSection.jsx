@@ -155,3 +155,4 @@ export default function UploadSection({ onFileSelected, onSampleSelected, isAnal
     </div>
   );
 }
+

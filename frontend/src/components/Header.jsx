@@ -65,3 +65,4 @@ export default function Header({ backendStatus, selectedLanguage, onLanguageChan
     </header>
   );
 }
+

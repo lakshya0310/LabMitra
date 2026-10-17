@@ -109,3 +109,4 @@ export async function askTextQuestion(question, reportSummary, targetLanguage = 
 
   return response.json();
 }
+

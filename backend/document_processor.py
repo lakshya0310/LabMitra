@@ -118,3 +118,4 @@ def extract_from_pdf(pdf_bytes: bytes) -> Dict[str, Any]:
             "tables": [],
             "error": str(e),
         }
+

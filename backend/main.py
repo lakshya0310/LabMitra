@@ -353,3 +353,4 @@ def _get_default_extracted_tests() -> List[Dict[str, Any]]:
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("backend.main:app", host=HOST, port=PORT, reload=False)
+
