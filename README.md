@@ -1,6 +1,12 @@
 # LabMitra (लैबमित्र) 🩺🇮🇳
 > **Mobile-first Indian Diagnostic Blood Test Report Explainer with Local Semantic RAG & Sarvam AI**
 
+[![Live Demo](https://img.shields.io/badge/Live_App-lab--mitra.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-mitra.vercel.app/)
+[![Render Backend](https://img.shields.io/badge/Render_Web_Service-512MB_OOM_Safe-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/)
+[![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-105B_%2B_Bulbul_%2B_Saaras-ff6b00?style=for-the-badge)](https://docs.sarvam.ai/)
+
+🔗 **Live Production Application:** [https://lab-mitra.vercel.app/](https://lab-mitra.vercel.app/)
+
 LabMitra empowers Indian patients and elderly parents to understand complex diagnostic lab reports (Dr. Lal PathLabs, Thyrocare, Apollo Diagnostics, SRL, etc.) in a calm, comforting regional Indian voice without panic. It replaces intimidating clinical jargon with 100% Indian kitchen dietary swaps (methi dana water, roasted bhuna chana, moong dal chilla, lauki, ragi, chaas) and empowers families with practical questions to ask their consulting physician.
 
 ---
@@ -10,6 +16,7 @@ LabMitra empowers Indian patients and elderly parents to understand complex diag
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                 Vercel Frontend (SPA)                       │
+│  🔗 https://lab-mitra.vercel.app/                           │
 │  - Vite + React + Tailwind CSS                              │
 │  - Mobile Sticky Audio Player + Push-to-Talk Mic            │
 │  - Reads VITE_API_BASE_URL (Render backend in prod)         │
@@ -166,3 +173,4 @@ Open `http://localhost:5173` in your browser.
 3. Set the Environment Variable:
    - `VITE_API_BASE_URL`: `https://your-render-app-name.onrender.com`
 4. Click **Deploy**. Vercel will build the SPA and apply [`frontend/vercel.json`](file:///c:/Users/Hi/build-a-thon/frontend/vercel.json).
+5. The application is live at: **[https://lab-mitra.vercel.app/](https://lab-mitra.vercel.app/)**
